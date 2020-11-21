@@ -1,11 +1,11 @@
 {
-    "token":"NzY3MDkxMDQ5MzgxODg4MDAw.X4s3Ng.k8v5f2Y9wipGw30SYJr3YGWHeA0",
+    "token":"",
 
-    "ownerID": "114091125479833609",
+    "ownerID": "",
     
     "prefix":"!",
     
-    "guild": "710166883474604083",
+    "guild": "",
     "bugChannel":"bug-reports",
     "bugChannelMessage":"React below to report a bug!\nNote: If the bug report is filled out incorrectly it will be denied.",
 
