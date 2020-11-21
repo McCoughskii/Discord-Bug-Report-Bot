@@ -1,0 +1,32 @@
+{
+    "token":"NzY3MDkxMDQ5MzgxODg4MDAw.X4s3Ng.k8v5f2Y9wipGw30SYJr3YGWHeA0",
+
+    "ownerID": "114091125479833609",
+    
+    "prefix":"!",
+    
+    "guild": "710166883474604083",
+    "bugChannel":"bug-reports",
+    "bugChannelMessage":"React below to report a bug!\nNote: If the bug report is filled out incorrectly it will be denied.",
+
+    "allowedRole1":"710166883474604085",
+    "allowedRole2":"710166883529261088",
+
+
+    "questions": [
+        "Give a short summary of your bug.",
+        "List the steps used to recreate this bug.",
+        "What is the expected result of performing this action?",
+        "What is the actual result of this action?",
+        "Do you have any additional info such as an error message or screenshot? (reply 'none' if not)",
+        "There can only be a total of 5 questions!"
+    ],
+
+    "answers": [
+        "**Short summary of bug: **",
+        "**Steps to recreate: **",
+        "**Expected result: **",
+        "**Actual result: **",
+        "**Additional info: **"
+    ]
+}

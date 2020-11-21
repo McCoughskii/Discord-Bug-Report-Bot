@@ -1,0 +1,19 @@
+{
+  "name": "undead-servers-bug-reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js"
+  },
+  "author": "Serabus",
+  "license": "ISC",
+  "engines": {
+     "node": "12.0.0"
+  } 
+}
