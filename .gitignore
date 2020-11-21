@@ -103,8 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
-#visual studio
+#visual studio code
 .vs/
+.vs/slnx.sqlite
 
 #data file
 data.txt
